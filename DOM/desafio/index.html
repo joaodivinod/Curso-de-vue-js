@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <title></title>
+</head>
+<body>
+    <div id="desafio">
+<!--        Preencha o tag p com seu Nome e Idade usando Interpolação    -->
+        <p>{{idadeNome}}</p>
+<!--        Exiba Sua idade Multiplicada por 3-->
+        <p>{{idade}}</p>
+<!--        Chame uma Função para exibir um numero randomico antre 0 e 1-->
+        <p>{{numero}}</p>
+<!--        Procure ima imagem no google e exiba a tga img fazendo o bliding no atributo SRC"-->
+        <img v-bind:src="src" alt="">
+<!--        Inicialize o input com o seu nome (use o atributo "value"-->
+        <br>
+        <input type="text" v-bind:value="idadeNome">
+    </div>
+
+    <script>
+        new Vue({
+            el:'#desafio',
+            data:{
+                idadeNome:'João Divino 23 Anos',
+                idade: 24*3,
+                numero:Math.random(),
+                src:'https://avatars0.githubusercontent.com/u/2840?s=64&v=4',
+            }
+        })
+    </script>
+
+</body>
+</html>

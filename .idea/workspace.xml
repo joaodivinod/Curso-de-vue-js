@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DOM/template-v6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/desafio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600430680496</updated>
       <workItem from="1600430681569" duration="3840000" />
-      <workItem from="1600435449212" duration="2220000" />
+      <workItem from="1600435449212" duration="4136000" />
     </task>
     <servers />
   </component>
@@ -99,5 +100,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="101" y="173" key="SettingsEditor/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600435485162" />
+    <state x="2058" y="54" width="1139" height="933" maximized="true" key="dock-window-1" timestamp="1600439741150">
+      <screen x="1920" y="73" width="1536" height="832" />
+    </state>
+    <state x="2058" y="54" width="1139" height="933" maximized="true" key="dock-window-1/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600439741150" />
   </component>
 </project>
