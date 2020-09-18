@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DOM/template-v1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM/template-v2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOM/template-v3.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM/template-v3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/DOM" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -72,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600430680496</updated>
-      <workItem from="1600430681569" duration="3463000" />
+      <workItem from="1600430681569" duration="3840000" />
+      <workItem from="1600435449212" duration="922000" />
     </task>
     <servers />
   </component>
@@ -89,8 +90,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="101" y="173" key="SettingsEditor" timestamp="1600435485162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="101" y="173" key="SettingsEditor/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600435485162" />
   </component>
 </project>
