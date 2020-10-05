@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="" />
+    <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/matador-de-monstrons/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Curso-de-vue-js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-de-vue-js.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +89,7 @@
       <workItem from="1601901631699" duration="992000" />
       <workItem from="1601905999331" duration="5045000" />
       <workItem from="1601916233335" duration="989000" />
-      <workItem from="1601918345243" duration="995000" />
+      <workItem from="1601918345243" duration="2618000" />
     </task>
     <servers />
   </component>
@@ -125,5 +129,9 @@
       <screen x="1920" y="73" width="1536" height="832" />
     </state>
     <state x="2058" y="54" width="1139" height="933" maximized="true" key="dock-window-1/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600439741150" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601919895725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601919895725" />
   </component>
 </project>
