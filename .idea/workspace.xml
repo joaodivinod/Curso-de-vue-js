@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/matador-de-monstrons/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Curso-de-vue-js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-de-vue-js.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matador-de-monstrons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/matador-de-monstrons/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <workItem from="1601901631699" duration="992000" />
       <workItem from="1601905999331" duration="5045000" />
       <workItem from="1601916233335" duration="989000" />
-      <workItem from="1601918345243" duration="2618000" />
+      <workItem from="1601918345243" duration="3931000" />
     </task>
     <servers />
   </component>
