@@ -13,18 +13,9 @@
 </head>
 <body>
     <div id="app">
-
         <p v-if="logado">Usuario Logado {{nome}}</p>
-
-        <p v-else-if="anonimo">Navegando como anonimo</p>
-
-        <p v-else="!logado">Nemhum Usuario Logado</p>
-
+        <p v-if="!logado">Nemhum Usuario Logado</p>
         <button @click="logado = !logado">{{logado ? 'Sair':'Entrar'}}</button>
-        <br>
-        <label for="">navegar como anônimo ?</label>
-        <input type="checkbox" v-model="anonimo">
-
     </div>
 
     <script>
@@ -33,7 +24,6 @@
             data:{
                 nome:'maria',
                 logado:false,
-                anonimo:false,
             }
         })
     </script>

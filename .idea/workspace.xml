@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/condicionais-e-listas/condicionais-v1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionais-e-listas/condicionais-v2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condicionais-e-listas/condicionais-v1.html" beforeDir="false" afterPath="$PROJECT_DIR$/condicionais-e-listas/condicionais-v1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../xampp/htdocs/CPL-VUE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/condicionais-e-listas" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,6 +70,7 @@
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\condicionais-e-listas" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\DOM" />
     </key>
   </component>
@@ -85,7 +86,7 @@
       <workItem from="1600435449212" duration="15810000" />
       <workItem from="1600528409757" duration="1766000" />
       <workItem from="1601901631699" duration="992000" />
-      <workItem from="1601905999331" duration="1640000" />
+      <workItem from="1601905999331" duration="1972000" />
     </task>
     <servers />
   </component>
