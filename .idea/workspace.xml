@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/componentes/revisão.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentes/componente-registro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/componentes/revisão.html" beforeDir="false" afterPath="$PROJECT_DIR$/componentes/revisão.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../xampp/htdocs/l4" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -89,7 +90,7 @@
       <workItem from="1601905999331" duration="5045000" />
       <workItem from="1601916233335" duration="989000" />
       <workItem from="1601918345243" duration="4865000" />
-      <workItem from="1602868357191" duration="646000" />
+      <workItem from="1602868357191" duration="2332000" />
     </task>
     <servers />
   </component>
@@ -116,10 +117,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="318" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600449504185" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601923378653">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602870810992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601923378653" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602870810992" />
     <state x="740" y="275" key="FileChooserDialogImpl/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600459187866" />
     <state x="101" y="173" key="SettingsEditor" timestamp="1600435485162">
       <screen x="0" y="0" width="1920" height="1040" />

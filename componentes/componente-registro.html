@@ -8,16 +8,20 @@
 <body>
 
 
-    <div id="app">
-        <contador></contador>
-        <br>
-        <contador></contador>
-        <br>
-        <contador></contador>
-    </div>
+<div id="app1">
+    <contador></contador>
+    <contador></contador>
+    <contador></contador>
+</div>
+<hr>
+<div id="app2">
+    <contador></contador>
+    <contador></contador>
+    <contador></contador>
+</div>
 
 <script>
-
+// Registro Global
     Vue.component('contador',{
         template:`
         <div>
@@ -33,7 +37,10 @@
         }
     })
     new Vue({
-        el:'#app'
+        el:'#app1'
+    })
+    new Vue({
+        el:'#app2'
     })
 </script>
 
