@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/introcução/primeiroAppV2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/exemploV1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/exemploV2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/introcução" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DOM" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,12 +67,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\condicionais-e-listas" />
-      <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\DOM" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\introcução" />
+      <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\condicionais-e-listas" />
+      <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\DOM" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,7 +95,7 @@
       <workItem from="1603653817746" duration="46000" />
       <workItem from="1603662423797" duration="229000" />
       <workItem from="1603716323160" duration="1543000" />
-      <workItem from="1603932930463" duration="635000" />
+      <workItem from="1603932930463" duration="1467000" />
     </task>
     <servers />
   </component>
