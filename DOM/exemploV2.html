@@ -8,17 +8,29 @@
 </head>
 <body style="background-color:#282A36;color: white">
 <div id="app">
-    <p>{{titulo}}</p>
+
+    <input type="text" v-model="nota1">
+    <input type="text" v-model="nota2">
+    <button @click="saudacao(nota1,nota2)">Calcular media</button>
+
+    <p>Sua nota : {{media}}</p>
+
 </div>
 <script>
     new Vue({
         el:'#app',
         data:{
-            titulo:'Usando Vue JS'
+            titulo:'Usando Vue JS',
+            nota1:10,
+            nota2:7,
+            media:0,
         },
         methods:{
-            saudacao:function(){
-                return 'Boa Semana !'
+            saudacao:function(X,Y){
+               alert( (X + Y) / 2 )
+                return {
+
+                }
             }
         }
     })

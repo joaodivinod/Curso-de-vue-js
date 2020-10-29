@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DOM/exemploV1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM/exemploV2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOM/exemploV2.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM/exemploV2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\DOM" />
       <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\introcução" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\condicionais-e-listas" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\DOM" />
@@ -95,7 +95,7 @@
       <workItem from="1603653817746" duration="46000" />
       <workItem from="1603662423797" duration="229000" />
       <workItem from="1603716323160" duration="1543000" />
-      <workItem from="1603932930463" duration="1467000" />
+      <workItem from="1603932930463" duration="2386000" />
     </task>
     <servers />
   </component>
