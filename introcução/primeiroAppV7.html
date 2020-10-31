@@ -9,23 +9,19 @@
 <body style="background-color:#282A36;color: white">
 <div id="app">
     <p>{{contador}}</p>
-    <button @click="somar()">Somar</button>
-    <button @click="subtrair()">subtrair</button>
+    <button @click="somar(contador)">Somar 1</button>
 
 </div>
 <script>
     new Vue({
         el:'#app',
         data:{
-            contador:1
+            contador: 1
         },
         methods:{
-            somar(){
-                this.contador +=1;
-            },
-            subtrair(){
-              this.contador -=1;
-            }
+          somar(){
+               this.contador+=1;
+          }
         }
     })
 </script>
