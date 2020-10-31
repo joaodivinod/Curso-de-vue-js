@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Introdução do curso</title>
+    <script src="https://unpkg.com/vue"></script>
+
+
+</head>
+<body style="background-color:#282A36;color: white">
+<div id="app">
+   <p v-once>{{titulo}}</p>
+    <button @click="saudacao()">Bom dia</button>
+    <p>{{titulo}}</p>
+
+</div>
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            titulo:'Usando Vue JS',
+            link:'https://www.pelando.com.br/quente'
+        },
+        methods:{
+            saudacao:function(){
+                this.titulo = 'Bom dia'
+            }
+        }
+    })
+</script>
+</body>
+</html>
