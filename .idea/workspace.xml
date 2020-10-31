@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/introcução/primeiroAppV3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM/exemploV2.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM/exemploV2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DOM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/introcução" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,14 +66,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\DOM" />
       <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\introcução" />
+      <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\DOM" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\condicionais-e-listas" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\DOM" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,6 +96,9 @@
       <workItem from="1603662423797" duration="229000" />
       <workItem from="1603716323160" duration="1543000" />
       <workItem from="1603932930463" duration="2386000" />
+      <workItem from="1604017804004" duration="601000" />
+      <workItem from="1604162433516" duration="1532000" />
+      <workItem from="1604164769433" duration="24000" />
     </task>
     <servers />
   </component>
@@ -118,6 +121,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="384" y="340" key="#Notifications" timestamp="1604164792746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="340" key="#Notifications/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604164792746" />
     <state x="318" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600449504185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
