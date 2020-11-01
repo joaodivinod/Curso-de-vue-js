@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DOM/PropriedadesReativasV1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM/PropriedadesReativasV2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/introcução" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DOM" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,8 +70,8 @@
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\introcução" />
       <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\DOM" />
+      <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\introcução" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\condicionais-e-listas" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\DOM" />
     </key>
@@ -97,7 +98,7 @@
       <workItem from="1603932930463" duration="2386000" />
       <workItem from="1604017804004" duration="601000" />
       <workItem from="1604162433516" duration="1532000" />
-      <workItem from="1604164769433" duration="6667000" />
+      <workItem from="1604164769433" duration="8531000" />
     </task>
     <servers />
   </component>
