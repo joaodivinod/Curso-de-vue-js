@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/introcução/contador.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introcução/primeiroAppV7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introcução/eventoV3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introcução/primeiroAppV1.html" beforeDir="false" afterPath="$PROJECT_DIR$/introcução/primeiroAppV1.html" afterDir="false" />
     </list>
@@ -100,7 +100,7 @@
       <workItem from="1603932930463" duration="2386000" />
       <workItem from="1604017804004" duration="601000" />
       <workItem from="1604162433516" duration="1532000" />
-      <workItem from="1604164769433" duration="2805000" />
+      <workItem from="1604164769433" duration="5213000" />
     </task>
     <servers />
   </component>
@@ -142,10 +142,10 @@
     </state>
     <state x="101" y="173" key="SettingsEditor/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603716538335" />
     <state x="101" y="173" key="SettingsEditor/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600435485162" />
-    <state x="1920" y="0" width="915" height="830" maximized="true" key="dock-window-1" timestamp="1604167599841">
+    <state x="1920" y="0" width="915" height="830" maximized="true" key="dock-window-1" timestamp="1604170461538">
       <screen x="1920" y="0" width="1024" height="728" />
     </state>
-    <state x="1920" y="0" width="915" height="830" maximized="true" key="dock-window-1/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604167599841" />
+    <state x="1920" y="0" width="915" height="830" maximized="true" key="dock-window-1/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604170461538" />
     <state x="2058" y="54" width="1139" height="933" maximized="true" key="dock-window-1/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600439741150" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1604167327667">
       <screen x="0" y="0" width="1920" height="1040" />
