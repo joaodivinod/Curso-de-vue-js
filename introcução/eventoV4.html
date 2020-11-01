@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Introdução do curso</title>
+    <script src="https://unpkg.com/vue"></script>
+
+</head>
+<body style="background-color:#282A36;color: white">
+<div id="app">
+    <p>{{contador}}</p>
+    <button @click="somar(5)">Somar</button>
+    <button @click="subtrair()">subtrair</button>
+
+    <br>
+    <br>
+
+    <label for="nota1">nota1</label>
+    <input id="nota1" type="number" v-model="nota1" placeholder="nota 1">
+
+    <button @click="calcularMedia(nota1,7,6,8)">Calcular media</button>
+    <p>{{nota1}}</p>
+    <p>{{resultado}}</p>
+
+    <form action="">
+        <h1>Coll</h1>
+        <input @click.prevent type="submit" value="Enviar">
+    </form>
+
+</div>
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            contador:0,
+            resultado:'',
+            nota1:0,
+        },
+        methods:{
+            somar(passo){
+                this.contador += passo;
+            },
+            subtrair(){
+              this.contador -=1;
+            },
+            calcularMedia(nota1,nota2,nota3,nota4){
+                this.resultado = (nota1 + nota2 + nota3 + nota4) / 4;
+            }
+
+        }
+    })
+</script>
+</body>
+</html>
