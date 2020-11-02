@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista com Vue JS</title>
+<!--  CDN  JS DO VUE -->
+    <script src="https://unpkg.com/vue"></script>
+    <!--    ESTILO DA PÁGINA-->
+    <style>
+        body{
+            background-color:#282A36;color: white
+        }
+    </style>
+
+</head>
+<body>
+<div id="app">
+    <p v-if="sessao">Usuario Logado</p>
+    <p v-else>Usuario Deslogado</p>
+
+    <button v-if="!sessao" @click="sessao = true">Login</button>
+    <button v-else @click="sessao=false">Sair</button>
+
+</div>
+
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            sessao:false,
+        }
+    })
+</script>
+
+</body>
+</html>
