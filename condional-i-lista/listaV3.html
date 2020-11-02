@@ -15,7 +15,13 @@
 </head>
 <body>
 <div id="app">
-    <p v-if="sessao">Usuario Logado</p>
+
+    <template v-if="sessao">
+        <p>Usuario Logado</p>
+        <p><strong>Usuario:</strong> João</p>
+        <p><strong>Topo de ususario:</strong> Admin </p>
+    </template>
+
     <p v-else>Usuario Deslogado</p>
 
     <button @click="sessao = !sessao"> {{sessao ? 'Sair':'Entrar'}} </button>
