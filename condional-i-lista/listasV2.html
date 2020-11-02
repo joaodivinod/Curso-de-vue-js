@@ -19,6 +19,9 @@
         <li v-for="(cor,index) in cores">{{index +1}} ){{cor}}</li>
     </ul>
 
+    <button @click="cores.push('Branco')">Adicionar Cor Branca</button>
+    <button @click="cores.pop()">Excluir</button>
+
     <ul v-for="pessoa in pessoas">
         <li>{{pessoa.nome}}</li>
         <li>{{pessoa.idade}}</li>
