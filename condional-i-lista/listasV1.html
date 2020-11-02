@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista com Vue JS</title>
+<!--  CDN  JS DO VUE -->
+    <script src="https://unpkg.com/vue"></script>
+    <!--    ESTILO DA PÁGINA-->
+    <style>
+        body{
+            background-color:#282A36;color: white
+        }
+    </style>
+
+</head>
+<body>
+<div id="app">
+    <ul>
+        <li v-for="cor in cores">{{cor}}</li>
+    </ul>
+
+    <ul v-for="pessoa in pessoas">
+        <li>{{pessoa.nome}}</li>
+        <li>{{pessoa.idade}}</li>
+        <li>{{pessoa.peso}}</li>
+    </ul>
+
+</div>
+
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            cores:['vermelho','Amarelo','Azul'],
+
+            pessoas:[
+                {nome:'Ana',idade:26,peso:59},
+                {nome:'Guilherme',idade:22,peso:80},
+                {nome:'João',idade:24,peso:90}
+            ]
+        }
+    })
+
+</script>
+
+</body>
+</html>

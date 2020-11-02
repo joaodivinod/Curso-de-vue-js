@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/condional-i-lista/listaV3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condional-i-lista/listasV1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condional-i-lista/listaV1.html" beforeDir="false" afterPath="$PROJECT_DIR$/condional-i-lista/listaV1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condional-i-lista/listaV1.html" beforeDir="false" afterPath="$PROJECT_DIR$/condional-i-lista/condicionaisV1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condional-i-lista/listaV3.html" beforeDir="false" afterPath="$PROJECT_DIR$/condional-i-lista/condicionaisV2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
       <workItem from="1604017804004" duration="601000" />
       <workItem from="1604162433516" duration="1532000" />
       <workItem from="1604164769433" duration="10590000" />
-      <workItem from="1604343522348" duration="2468000" />
+      <workItem from="1604343522348" duration="4565000" />
     </task>
     <servers />
   </component>
