@@ -55,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projeto-simples-cli" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../componente-intro" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -103,6 +103,7 @@
       <workItem from="1604164769433" duration="10590000" />
       <workItem from="1604343522348" duration="6191000" />
       <workItem from="1604671286850" duration="1204000" />
+      <workItem from="1604680485628" duration="650000" />
     </task>
     <servers />
   </component>
@@ -133,11 +134,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="318" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600449504185" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604673237440">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604681134507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603662653009" />
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604673237440" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604681134507" />
     <state x="740" y="275" key="FileChooserDialogImpl/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600459187866" />
     <state x="101" y="173" key="SettingsEditor" timestamp="1603716538335">
       <screen x="0" y="0" width="1920" height="1040" />
