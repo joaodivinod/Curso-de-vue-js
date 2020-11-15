@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM/PropriedadesReativasV1.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM/PropriedadesReativasV1.html" afterDir="false" />
-    </list>
+    <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../componente-intro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -64,7 +61,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -106,6 +103,7 @@
       <workItem from="1604671286850" duration="1204000" />
       <workItem from="1604680485628" duration="650000" />
       <workItem from="1605461122090" duration="811000" />
+      <workItem from="1605482639478" duration="215000" />
     </task>
     <servers />
   </component>
@@ -142,9 +140,10 @@
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603662653009" />
     <state x="740" y="275" key="FileChooserDialogImpl/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604681134507" />
     <state x="740" y="275" key="FileChooserDialogImpl/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600459187866" />
-    <state x="101" y="173" key="SettingsEditor" timestamp="1603716538335">
+    <state x="101" y="173" key="SettingsEditor" timestamp="1605482855806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="101" y="173" key="SettingsEditor/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605482855806" />
     <state x="101" y="173" key="SettingsEditor/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603716538335" />
     <state x="101" y="173" key="SettingsEditor/1920.73.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600435485162" />
     <state x="1920" y="0" width="915" height="830" key="dock-window-1" timestamp="1604199084153">
