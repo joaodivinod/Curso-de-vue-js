@@ -1,41 +1,43 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!doctype html>
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Lista com Vue JS</title>
-<!--  CDN  JS DO VUE -->
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
     <script src="https://unpkg.com/vue"></script>
-    <!--    ESTILO DA PÁGINA-->
-    <style>
-        body{
-            background-color:#282A36;color: white
-        }
-    </style>
 
 </head>
 <body>
-<div id="app">
 
-    <template v-if="sessao">
-        <p>Usuario Logado</p>
-        <p><strong>Usuario:</strong> João</p>
-        <p><strong>Topo de ususario:</strong> Admin </p>
-    </template>
+    <div id="app">
 
-    <p v-else>Usuario Deslogado</p>
+        <p v-if="logado">usuario logado {{ nome }}</p>
+        <p v-else-if="anonimo">Navegando como aninimo</p>
+        <p v-else>usuario deslogado</p>
 
-    <button @click="sessao = !sessao"> {{sessao ? 'Sair':'Entrar'}} </button>
+        <button @click="logado = !logado">
+            {{ logado ? 'Sair' : 'Entrar'  }}
+        </button>
+        <br>
+        <label> Anonimo
+            <input type="checkbox" v-model="anonimo">
+        </label>
 
-</div>
 
-<script>
-    new Vue({
-        el:'#app',
-        data:{
-            sessao:false,
-        }
-    })
-</script>
+    </div>
+
+    <script>
+        new Vue ({
+            el:'#app',
+            data:{
+                nome:'Maria',
+                logado : false,
+                anonimo : true,
+            }
+        })
+    </script>
 
 </body>
 </html>
