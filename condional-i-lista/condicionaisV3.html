@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue"></script>
+
+</head>
+<body>
+
+    <div id="app">
+
+        <template v-if="logado">
+            <p>usuario logado {{ nome }}</p>
+            <p>Perfil de usuario : Admin</p>
+        </template>
+
+        <p v-else-if="anonimo">Navegando como aninimo</p>
+        <p v-else>usuario deslogado</p>
+
+        <button @click="logado = !logado">
+            {{ logado ? 'Sair' : 'Entrar'  }}
+        </button>
+        <br>
+        <label> Anonimo
+            <input type="checkbox" v-model="anonimo">
+        </label>
+
+
+    </div>
+
+    <script>
+        new Vue ({
+            el:'#app',
+            data:{
+                nome:'Maria',
+                logado : false,
+                anonimo : true,
+            }
+        })
+    </script>
+
+</body>
+</html>
