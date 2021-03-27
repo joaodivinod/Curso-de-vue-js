@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Listas V2</title>
+    <script src="https://unpkg.com/vue"></script>
+
+</head>
+<body>
+
+    <div id="app">
+        <ul>
+            <li v-for="cor in cores">{{cor}}</li>
+        </ul>
+    </div>
+
+    <button @click="addCor">Adicionar Cor</button>
+
+
+
+    <script>
+        new Vue ({
+            el:'#app',
+            data:{
+                cores:['Vermelho','verde','rosa','amarelo'],
+                pessoas:[
+                    {nome:'Ana',idade:22,peso:60},
+                    {nome:'João',idade:24,peso:90},
+                    {nome:'Carlos',idade:22,peso:160},
+                ]
+            },
+            methods:{
+                addCor(){
+                    alert('funciona')
+                }
+            }
+        })
+    </script>
+
+</body>
+</html>
