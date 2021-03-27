@@ -13,8 +13,20 @@
 
     <div id="app">
         <ul>
-            <li v-for="cor in cores">{{cor}}</li>
+            <li v-for="(cor, i) in cores">{{i}} - {{cor}}</li>
         </ul>
+
+        <h5>Lista de pessoas</h5>
+
+        <ul v-for="(pessoa, i) in pessoas">
+            <li>ID = {{i}}</li>
+            <li>Nome: {{pessoa.nome}}</li>
+            <li>Idade: {{pessoa.idade}}</li>
+            <li>Peso: {{pessoa.peso}}</li>
+        </ul>
+
+
+
     </div>
 
     <button @click="addCor">Adicionar Cor</button>
