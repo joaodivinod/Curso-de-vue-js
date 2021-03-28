@@ -9,12 +9,18 @@
 <body style="background-color:#282A36;color: white">
 <div id="app">
     <p>{{titulo}}</p>
+    <button @click="alertar()">Alertar</button>
 </div>
 <script>
     new Vue({
         el:'#app',
         data:{
             titulo:'Usando Vue JS'
+        },
+        methods:{
+          alertar(){
+              alert('Funciona, Olha o alert ai ' + this.titulo)
+          }
         }
     })
 </script>

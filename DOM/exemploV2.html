@@ -2,36 +2,25 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Introdução do curso</title>
+    <title>DOM V2</title>
     <script src="https://unpkg.com/vue"></script>
 
 </head>
 <body style="background-color:#282A36;color: white">
 <div id="app">
-
-    <input type="text" v-model="nota1">
-    <input type="text" v-model="nota2">
-    <button @click="saudacao(nota1,nota2)">Calcular media</button>
-
-    <p>Sua nota : {{media}}</p>
-
+    <p>{{titulo}}</p>
+    <button @click="alertar()">Alertar</button>
 </div>
 <script>
     new Vue({
         el:'#app',
         data:{
-            titulo:'Usando Vue JS',
-            nota1:10,
-            nota2:7,
-            media:0,
+            titulo:'Usando Vue JS'
         },
         methods:{
-            saudacao:function(X,Y){
-               alert( (X + Y) / 2 )
-                return {
-
-                }
-            }
+          alertar(){
+              alert('Funciona, Olha o alert ai ' + this.titulo)
+          }
         }
     })
 </script>
