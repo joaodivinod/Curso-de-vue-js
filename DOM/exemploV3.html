@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM V3</title>
+    <script src="https://unpkg.com/vue"></script>
+
+</head>
+<body style="background-color:#282A36;color: white">
+<div id="app">
+    <p>{{titulo}}</p>
+    <button @click="alertar()">Alertar</button>
+</div>
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            titulo:'Usando Vue JS'
+        },
+        methods:{
+          alertar(){
+              this.titulo = 'Outro Valor'
+          }
+        }
+    })
+</script>
+</body>
+</html>
