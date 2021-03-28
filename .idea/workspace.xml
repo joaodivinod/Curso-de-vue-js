@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Estilos/estilov2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estilos/estilov3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estilos/estilov1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Estilos/estilov1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/eventos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Estilos" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -70,11 +71,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\Estilos" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\eventos" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\DOM" />
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js\condional-i-lista" />
       <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\condional-i-lista" />
-      <recent name="C:\Users\João\Documents\GitHub\Curso-de-vue-js\DOM" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Desenvolvedor\Documents\GitHub\Curso-de-vue-js" />
@@ -109,7 +110,7 @@
       <workItem from="1605461122090" duration="811000" />
       <workItem from="1605482639478" duration="215000" />
       <workItem from="1610301596322" duration="346000" />
-      <workItem from="1616875348607" duration="10310000" />
+      <workItem from="1616875348607" duration="12851000" />
     </task>
     <servers />
   </component>

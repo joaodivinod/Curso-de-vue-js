@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Estilos v3</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/vue"></script>
+    <style>
+        .caixas{
+            display: flex;
+            justify-content: space-around;
+            padding-top: 50px;
+        }
+        .demo{
+            width: 100px;
+            height: 100px;
+            background-color: #ec485f;
+        }
+        .c1{
+            background: red;
+        }
+        .c2{
+            background-color: green;
+        }
+        .c3{
+            background-color: blue;
+        }
+        a{
+            color: #fff;
+        }
+        input{
+            border-radius: 8px;
+            height: 50px;
+            width: 100%;
+        }
+    </style>
+</head>
+<body style="background-color:#282A36;color: white;font-family: 'Montserrat', sans-serif;">
+<div id="app">
+    <div class="caixas">
+        <div class="demo" @click="aplicarC1 = !aplicarC1" :class="{c1:aplicarC1}"></div>
+        <div :style="{backgroundColor:cor}" class="demo"></div>
+        <div class="demo" :class="classeCss"></div>
+    </div>
+    <br>
+    <br>
+    <hr>
+    <br>
+    <br>
+    <input type="text" v-model="cor">
+
+</div>
+
+
+
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            titulo:'Usando Vue JS',
+            aplicarC1:false,
+            classeCss:'c3',
+            cor:'red',
+        },
+        methods:{
+
+        },
+
+    })
+</script>
+</body>
+</html>
