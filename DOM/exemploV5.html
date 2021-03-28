@@ -2,7 +2,9 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>DOM V4</title>
+    <title>DOM V5</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <script src="https://unpkg.com/vue"></script>
     <style>
         a{
@@ -10,7 +12,7 @@
         }
     </style>
 </head>
-<body style="background-color:#282A36;color: white">
+<body style="background-color:#282A36;color: white;font-family: 'Montserrat', sans-serif;">
 <div id="app">
     <p>{{titulo}}</p>
     <a :href="link" target="_blank">Isso e um Link</a> <br><br>
@@ -18,7 +20,8 @@
     <button @click="link = 'https://www.google.com' ">Google</button>
     <button @click="link = 'https://jovemnerd.com.br/'">Jovem Nerd</button>
     <button @click="link = 'https://g1.globo.com/'">G1</button>
-
+    <br>
+    <br>
 
     <input type="text" v-bind:value="link">
 
@@ -32,7 +35,7 @@
         },
         methods:{
           alertar(){
-              this.titulo = 'Outro Valor'
+              this.titulo = 'Bom dia'
           }
         }
     })
