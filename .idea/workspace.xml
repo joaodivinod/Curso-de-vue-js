@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4894f2ee-dcf3-4f76-bcb1-868330c04c5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Estilos/estilov2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estilos/estilov3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Estilos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../formulario-exercicios" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -110,7 +108,7 @@
       <workItem from="1605461122090" duration="811000" />
       <workItem from="1605482639478" duration="215000" />
       <workItem from="1610301596322" duration="346000" />
-      <workItem from="1616875348607" duration="12851000" />
+      <workItem from="1616875348607" duration="13593000" />
     </task>
     <servers />
   </component>
@@ -131,31 +129,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="384" y="340" key="#Notifications" timestamp="1604164792746">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="384" y="340" key="#Notifications/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604164792746" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1610301943899">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610301943899" />
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603662653009" />
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604681134507" />
-    <state x="101" y="173" key="SettingsEditor" timestamp="1605482855806">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="101" y="173" key="SettingsEditor/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1605482855806" />
-    <state x="101" y="173" key="SettingsEditor/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603716538335" />
-    <state x="1920" y="0" width="915" height="830" key="dock-window-1" timestamp="1604199084153">
-      <screen x="1920" y="0" width="1024" height="728" />
-    </state>
-    <state x="1920" y="0" width="915" height="830" key="dock-window-1/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604199084153" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1604167327667">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/1920.0.1024.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604167327667" />
-    <state x="616" y="240" key="run.anything.popup/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601919895725" />
   </component>
 </project>
