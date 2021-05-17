@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Map 1</title>
+</head>
+<body>
+  <script>
+    const carrinho = [
+            {"nome":"Borracaha","preco":3.45},
+            {"nome":"Caderno","preco":13.90},
+            {"nome":"Kit de lapis","preco":41.72},
+            {"nome":"Caneta","preco":7.50}
+    ]
+
+
+    let valores = carrinho.map( e => `preço R$ ${e.preco}` )
+
+    let valoresVirgula = valores.map( e => `${e.replace('.',',')}` )
+
+    console.log(valoresVirgula)
+
+
+
+  </script>
+</body>
+</html>
